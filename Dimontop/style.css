@@ -1,0 +1,13 @@
+.father{
+    display: flex;
+}
+.child{
+    padding: 0 10px 0 10px;
+}
+
+.imagr{
+    height: 150px;
+    width: 150px;
+}
+
+
